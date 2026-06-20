@@ -73,7 +73,7 @@ A comprehensive Flutter application for managing small shop operations, includin
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone (https://github.com/ZakariaAlkaldi/Shope-Management.git)
 cd shope-management
 ```
 
